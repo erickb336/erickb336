@@ -8,10 +8,10 @@ Just trying to make some cool things on the Internet and be a good human.
 - ⚡ Fun fact: I like running and learning everything related to tech and personal health.
 
 ## Stats 👾
-![Benieric's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=benieric&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=Erick's%20GitHub%20Stats&theme=midnight-purple)
+![Erick's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=erickb336&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=Erick's%20GitHub%20Stats&theme=midnight-purple)
 
 <!--
-**benieric/benieric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ericb336/erickb336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
