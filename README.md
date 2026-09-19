@@ -9,10 +9,13 @@ Just trying to make some cool things on the Internet and be a good human.
 - 📚 Studied Computer Science at [Georgia Tech](https://www.cc.gatech.edu/)
 - ⚡ Fun fact: I like running and learning everything about to tech and personal health.
 
+
+Want to know more about me? [Check out my portfolio.](https://erickbenitez.com/)
+
+
 ## Stats 👾
 ![Erick's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=erickb336&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=Erick's%20GitHub%20Stats&theme=midnight-purple)
 
-Want to know more about me? [Check out my portfolio.](https://erickbenitez.com/)
 
 <!--
 **ericb336/erickb336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
