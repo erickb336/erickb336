@@ -12,16 +12,4 @@ Just trying to make some cool things on the Internet and be a good human.
 - Fun fact: I like running and learning everything about tech and personal health.
 
 
-Want to know more about me? [Check out my portfolio.](https://erickbenitez.com/)
-
----
-
-### Option 1 · Credentials
-
-[![Georgia Tech · CS](assets/badges/education.svg)](https://www.cc.gatech.edu/) &nbsp; [![Previously · AWS + Casco](assets/badges/previous.svg)](https://erickbenitez.com/#experience) &nbsp; [![Seattle, WA](assets/badges/location.svg)](https://erickbenitez.com/about/)
-
-### Option 2 · Let’s Connect
-
-[![Portfolio](assets/badges/portfolio.svg)](https://erickbenitez.com/) &nbsp; [![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/erickb336/) &nbsp; [![X](assets/badges/x.svg)](https://x.com/erickb336)
-
-<sub>Preview comparison only — we’ll keep one row in the final README.</sub>
+[![Explore my portfolio — erickbenitez.com](assets/badges/portfolio.svg)](https://erickbenitez.com/)
