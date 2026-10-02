@@ -1,3 +1,7 @@
+## Hi there, I'm Erick 👋
+
+Just trying to make some cool things on the Internet and be a good human.
+
 ```text
   erick@seattle:~$ whoami
 
@@ -19,8 +23,6 @@
 [Portfolio ↗](https://erickbenitez.com/) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/erickb336/) &nbsp; · &nbsp; [X ↗](https://x.com/erickb336)
 
 From machine learning infrastructure at **Amazon Web Services** to AI agents for autonomous security at **Casco**. Now building personal tools, contributing to community projects, and growing our family business.
-
-Just trying to make some cool things on the Internet and be a good human.
 
 ### `01 / experience`
 
