@@ -14,20 +14,14 @@ Just trying to make some cool things on the Internet and be a good human.
 
 Want to know more about me? [Check out my portfolio.](https://erickbenitez.com/)
 
+---
 
+### Option 1 · Credentials
 
+[![Georgia Tech · CS](assets/badges/education.svg)](https://www.cc.gatech.edu/) &nbsp; [![Previously · AWS + Casco](assets/badges/previous.svg)](https://erickbenitez.com/#experience) &nbsp; [![Seattle, WA](assets/badges/location.svg)](https://erickbenitez.com/about/)
 
-<!--
-**ericb336/erickb336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Option 2 · Let’s Connect
 
-Here are some ideas to get you started:
+[![Portfolio](assets/badges/portfolio.svg)](https://erickbenitez.com/) &nbsp; [![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/erickb336/) &nbsp; [![X](assets/badges/x.svg)](https://x.com/erickb336)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Preview comparison only — we’ll keep one row in the final README.</sub>
