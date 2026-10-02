@@ -15,6 +15,7 @@ Just trying to make some cool things on the Internet and be a good human.
   Software engineer / Seattle, WA
 ```
 
-Previously **AWS** & **Casco**. Now building with [Seattle Digital Commons](https://digseattle.org/), working on [Orchestrator](https://github.com/erickb336/orchestration), and helping grow our [family jewelry business](https://www.almajaimejewelry.com/).
+**Software Engineer · Georgia Tech Computer Science**  
+Previously at **Amazon Web Services** and **Casco**. Volunteer developer at [Seattle Digital Commons](https://digseattle.org/).
 
 [Portfolio ↗](https://erickbenitez.com/) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/erickb336/) &nbsp; · &nbsp; [X ↗](https://x.com/erickb336)
