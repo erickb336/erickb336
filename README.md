@@ -1,35 +1,43 @@
-## Hi there, I'm Erick 👋
+[![Erick Benitez-Ramos — Software Engineer. Seattle, Washington. Engineering with curiosity. Building with purpose.](./assets/profile-header.svg)](https://erickbenitez.com/)
+
+[Portfolio ↗](https://erickbenitez.com/) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/erickb336/) &nbsp; · &nbsp; [X ↗](https://x.com/erickb336)
+
+From machine learning infrastructure at **Amazon Web Services** to AI agents for autonomous security at **Casco**. Now building personal tools, contributing to community projects, and growing our family business.
 
 Just trying to make some cool things on the Internet and be a good human.
 
-- Software Engineer
-   - Previously worked @:
-     - Casco - https://casco.com/
-     - Amazon [SageMaker PySDK](https://aws.amazon.com/blogs/machine-learning/accelerate-your-ml-lifecycle-using-the-new-and-improved-amazon-sagemaker-python-sdk-part-1-modeltrainer/)
-- Volunteer Software Developer at [Seattle Digital Commons (SDC)](https://digseattle.org/about/).
-- As a side hobby, I help operate the online storefront for our family business, [Alma & Jaime Jewelry](https://www.almajaimejewelry.com/).
-- Studied Computer Science at [Georgia Tech](https://www.cc.gatech.edu/)
-- Fun fact: I like running and learning everything about tech and personal health.
+### `01` &nbsp; Where I’ve been
 
+**Seattle Digital Commons** · Volunteer Software Developer  
+Building civic software that helps people explore and understand local government. Contributing to Council Record, an ongoing project focused on accessible, source-backed civic information.  
+[Seattle Digital Commons ↗](https://digseattle.org/)
 
-Want to know more about me? [Check out my portfolio.](https://erickbenitez.com/)
+**Casco** · Software Engineer  
+Built AI agents that autonomously tested the security of web apps, APIs, infrastructure, and AI systems.  
+[Casco ↗](https://casco.com/)
 
+**Amazon Web Services** · SDE II · SDE I · Internships  
+Worked on SageMaker training infrastructure, the Python SDK, and Studio. Earlier internships focused on Amazon Transcribe.  
+[ModelTrainer launch article ↗](https://aws.amazon.com/blogs/machine-learning/accelerate-your-ml-lifecycle-using-the-new-and-improved-amazon-sagemaker-python-sdk-part-1-modeltrainer/) · [Full experience ↗](https://erickbenitez.com/#experience)
 
-## Stats 👾
-![Erick's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=erickb336&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=Erick's%20GitHub%20Stats&theme=midnight-purple)
+<sub>Georgia Tech · Computer Science</sub>
 
+### `02` &nbsp; Building & exploring
 
-<!--
-**ericb336/erickb336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | What it’s about |
+| :--- | :--- |
+| [**Orchestrator**](https://github.com/erickb336/orchestration) | A local workspace for coordinating coding agents through planning, implementation, and review. |
+| [**Alma & Jaime Jewelry**](https://www.almajaimejewelry.com/) | Bringing our family’s Atlanta jewelry business online and helping it grow into its next chapter. |
+| [**More projects ↗**](https://erickbenitez.com/#work) | Developer tools, experiments, and things I’m learning by building. |
 
-Here are some ideas to get you started:
+### `03` &nbsp; Beyond the work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Runs, walks, and time in the gym. Books, music, and life through my lens.
+
+[Photo journal ↗](https://erickbenitez.com/journal/) &nbsp; · &nbsp; [About & bookshelf ↗](https://erickbenitez.com/about/)
+
+---
+
+### Let’s Connect
+
+Have something interesting in mind? [Find me on LinkedIn ↗](https://www.linkedin.com/in/erickb336/)
