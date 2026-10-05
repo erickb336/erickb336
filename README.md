@@ -11,7 +11,6 @@ Just trying to make some cool things on the Internet and be a good human.
 - Volunteer Software Developer at [Seattle Digital Commons (SDC)](https://digseattle.org/about/).
 - As a side hobby, I help operate the online storefront for our family business, [Alma & Jaime Jewelry](https://www.almajaimejewelry.com/).
 - Studied Computer Science at [Georgia Tech](https://www.cc.gatech.edu/)
-- Fun fact: I like running and learning everything about tech and personal health.
 
 
 Want to know more about me? [Check out my portfolio.](https://erickbenitez.com/)
