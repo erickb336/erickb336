@@ -1,7 +1,4 @@
-<div align="right">
-<img src="assets/zen-sage.png" width="220" alt="Zen the toad sage working on a laptop" /><br />
-<sub>My Mascot: Zen the toad sage</sub>
-</div>
+<img align="right" src="assets/zen-sage.png" width="220" alt="My Mascot: Zen the toad sage" title="My Mascot: Zen the toad sage" />
 
 ## Hi there, I'm Erick 👋
 
@@ -38,3 +35,4 @@ Here are some ideas to get you started:
 -->
 
 <br clear="both" />
+<p align="right"><sub>My Mascot: Zen the toad sage</sub></p>
