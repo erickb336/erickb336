@@ -1,3 +1,8 @@
+<table align="right"><tr><td align="center">
+<img src="assets/zen-sage.png" width="220" alt="Zen the toad sage working on a laptop" /><br />
+<sub>My Mascot: Zen the toad sage</sub>
+</td></tr></table>
+
 ## Hi there, I'm Erick 👋
 
 Just trying to make some cool things on the Internet and be a good human.
@@ -31,3 +36,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br clear="both" />
