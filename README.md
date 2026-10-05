@@ -1,4 +1,4 @@
-<img align="right" src="assets/zen-sage-caption.png" width="220" alt="My Mascot: Zen the toad sage" title="My Mascot: Zen the toad sage" />
+<img align="right" src="assets/zen-sage-earbuds-caption.png" width="220" alt="My Mascot: Zen the toad sage" title="My Mascot: Zen the toad sage" />
 
 ## Hi there, I'm Erick 👋
 
