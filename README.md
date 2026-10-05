@@ -34,5 +34,3 @@ Here are some ideas to get you started:
 -->
 
 <br clear="both" />
-
-<img src="assets/baby-zen-run-small.gif" width="700" alt="Baby Zen running back and forth with his blue star" />
