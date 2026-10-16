@@ -1,7 +1,5 @@
 ## Hi there, I'm Erick 👋
 
-<img align="right" src="assets/zen-sage-earbuds-caption.png" width="220" alt="My Mascot: Zen the toad sage" title="My Mascot: Zen the toad sage" />
-
 Just trying to make some cool things on the Internet and be a good human.
 
 - Software Engineer
@@ -33,4 +31,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br clear="both" />
